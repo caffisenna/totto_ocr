@@ -14,3 +14,4 @@ yum install tesseract-langpack-deu
 ```
 dnf install ImageMagick Imagemagick-devel
 ```
+[Introduction \| tessdoc](https://tesseract-ocr.github.io/tessdoc/Installation.html)
