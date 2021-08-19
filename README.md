@@ -9,9 +9,9 @@ yum update
 yum install tesseract
 yum install tesseract-langpack-deu
 ```
+[Introduction \| tessdoc](https://tesseract-ocr.github.io/tessdoc/Installation.html)
 
 ## ImageMagick on CentOS7
 ```
 dnf install ImageMagick Imagemagick-devel
 ```
-[Introduction \| tessdoc](https://tesseract-ocr.github.io/tessdoc/Installation.html)
