@@ -4,7 +4,7 @@
 path="bw2.jpg"
 
 # tmpfile
-tmp_file="tmp.txt"
+tmp_file=$(mktemp)
 
 # result
 result_file="result.txt"
