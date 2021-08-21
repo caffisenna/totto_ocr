@@ -28,3 +28,6 @@ yum install tesseract-langpack-deu
 ```
 dnf install ImageMagick Imagemagick-devel
 ```
+
+![activityListのコピー](https://user-images.githubusercontent.com/1632947/130306981-f799c4a9-49bf-45ea-89fd-4a897fcd7532.png)
+この画面からデータを引っ張りたい
